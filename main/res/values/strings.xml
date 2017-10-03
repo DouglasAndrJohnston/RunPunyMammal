@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Run Puny Mammal</string>
+    <string name="action_settings">Settings</string>
+    <string name="play_label">Play Outside</string>
+    <string name="play_label_2">Play Inside</string>
+    <string name="shop_label">Shop</string>
+    <string name="outside_levels">Outside Levels</string>
+    <string name="inside_levels">Inside Levels</string>
+
+
+    <string name="feathers">feathers</string>
+    <string name="fangs">fangs</string>
+    <string name="claws">claws</string>
+    <string name="furs">furs</string>
+    <string name="steps">steps</string>
+    <string name="OURINFO">OURINFO</string>
+    <string name="purchase_offer">"Would you like to purchase this item?"</string>
+    <string name="not_enough_resources">You do not have the resources for this item. Try playing levels for more resources.</string>
+
+    <string name="walk">walk</string>
+    <string name="jog">jog</string>
+    <string name="run">run</string>
+    <string name="wolf">wolf</string>
+    <string name="lion">lion</string>
+    <string name="bird">bird</string>
+    <string name="snake">snake</string>
+
+    <string name="success">Success</string>
+    <string name="no_luck">No Luck</string>
+
+    <string name="plains_label">Plains</string>
+    <string name="forrest_label">Forrest</string>
+    <string name="level_select">Level Select</string>
+
+
+
+    <string name="available_header_text">Available Trophies: </string>
+    <string name="purchased_header_text">Your Trophies: </string>
+    <string name="acknowledgments_label">Acknowledgements</string>
+    <string name="acknowledgments_text">
+        Sound effects:
+        \n \n
+        freemusicarchive.org
+        \n \n
+        soundbible.com
+        \n \n
+        freesoundeffects.com
+        \n \n
+        freesound.org
+
+        \n \n
+        Music: \n
+        Anthem by Evan Schaeffer \n
+        Denoument by Kai Engel \n
+        Run by Kai Engel \n
+        AFtrMTH by Ars Sonar
+
+        Icons: \n
+        <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> are licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+        \n
+
+
+
+    </string>
+    <string name="rewards_label">Rewards</string>
+    <string name="ok">OK</string>
+    <string name="accept">Yes</string>
+    <string name="decline">No</string>
+    <string name="media_label">Pause</string>
+    <string name="fast_pace">run</string>
+    <string name="medium_pace">jog</string>
+    <string name="slow_pace">walk</string>
+    <string name="stand_still">stand</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAppearance="@style/large"
+        android:text="@string/outside_levels"
+        />
+
+    <Button
+        android:id="@+id/plains_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_margin="@dimen/menu_button_margin"
+        android:padding="@dimen/menu_button_padding"
+        android:text="@string/plains_label"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/large"
+        android:gravity="center"
+        android:text="@string/inside_levels"
+        />
+
+    <Button
+        android:id="@+id/forrest_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_margin="@dimen/menu_button_margin"
+        android:padding="@dimen/menu_button_padding"
+        android:text="@string/forrest_label"/>
+
+</LinearLayout>

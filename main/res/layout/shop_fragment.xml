@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:id="@+id/shop_feathers"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:id="@+id/shop_fangs"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:id="@+id/shop_fur"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:id="@+id/shop_claws"
+        />
+
+   <TextView
+       android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/purchased_header"
+       android:padding="5dp"
+       android:text="@string/purchased_header_text"
+       android:textAppearance="@style/large"
+
+       />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/purchased_list"
+        >
+    </ListView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/available_header"
+        android:padding="5dp"
+        android:text="@string/available_header_text"
+        android:textAppearance="@style/large"
+        />
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/available_list"
+        >
+    </ListView>
+
+</LinearLayout>

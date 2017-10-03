@@ -1,0 +1,4 @@
+wolf wolf run-run-jog-run fur
+lion lion run-jog-run-jog claws
+bird bird walk-jog-walk-jog feathers
+snake snake jog-walk-walk-jog fangs
